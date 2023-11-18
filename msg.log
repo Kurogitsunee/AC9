@@ -1,0 +1,57 @@
+2023-11-18 22:57:45,240 Number of barrels (n) = 7.
+2023-11-18 22:57:45,241 List of barrels was created.
+2023-11-18 22:57:45,241 Starting a cycle.
+2023-11-18 22:57:45,241 Function <random_barrel> returned 6.
+2023-11-18 22:57:46,292 Function <random_barrel> returned 1.
+2023-11-18 22:57:46,476 Function <random_barrel> returned 4.
+2023-11-18 22:57:46,625 Function <random_barrel> returned 3.
+2023-11-18 22:57:46,788 Function <random_barrel> returned 7.
+2023-11-18 22:57:46,970 Function <random_barrel> returned 5.
+2023-11-18 22:57:47,380 Function <random_barrel> returned 2.
+2023-11-18 22:57:47,381 Cycle ends successfully.
+2023-11-18 22:58:34,448 Number of barrels (n) = 13.
+2023-11-18 22:58:34,449 List of barrels was created.
+2023-11-18 22:58:34,449 Starting a cycle.
+2023-11-18 22:58:34,449 Function <random_barrel> returned 2.
+2023-11-18 22:58:35,331 Function <random_barrel> returned 6.
+2023-11-18 22:58:35,489 Function <random_barrel> returned 9.
+2023-11-18 22:58:35,636 Function <random_barrel> returned 11.
+2023-11-18 22:58:35,788 Function <random_barrel> returned 13.
+2023-11-18 22:58:35,947 Function <random_barrel> returned 12.
+2023-11-18 22:58:36,086 Function <random_barrel> returned 10.
+2023-11-18 22:58:36,223 Function <random_barrel> returned 7.
+2023-11-18 22:58:36,370 Function <random_barrel> returned 1.
+2023-11-18 22:58:36,517 Function <random_barrel> returned 8.
+2023-11-18 22:58:36,865 Function <random_barrel> returned 4.
+2023-11-18 22:58:37,211 Function <random_barrel> returned 5.
+2023-11-18 22:58:37,533 Function <random_barrel> returned 3.
+2023-11-18 22:58:37,534 Cycle ends successfully.
+2023-11-18 22:59:43,641 Number of barrels (n) = 25.
+2023-11-18 22:59:43,641 List of barrels was created.
+2023-11-18 22:59:43,642 Starting a cycle.
+2023-11-18 22:59:43,642 Function <random_barrel> returned 10.
+2023-11-18 22:59:47,964 Function <random_barrel> returned 24.
+2023-11-18 22:59:48,790 Function <random_barrel> returned 25.
+2023-11-18 22:59:48,966 Function <random_barrel> returned 23.
+2023-11-18 22:59:49,186 Function <random_barrel> returned 1.
+2023-11-18 22:59:49,366 Function <random_barrel> returned 19.
+2023-11-18 22:59:49,561 Function <random_barrel> returned 15.
+2023-11-18 22:59:49,755 Function <random_barrel> returned 20.
+2023-11-18 22:59:49,959 Function <random_barrel> returned 11.
+2023-11-18 22:59:50,129 Function <random_barrel> returned 16.
+2023-11-18 22:59:50,361 Function <random_barrel> returned 17.
+2023-11-18 22:59:50,530 Function <random_barrel> returned 8.
+2023-11-18 22:59:50,743 Function <random_barrel> returned 2.
+2023-11-18 22:59:51,024 Function <random_barrel> returned 3.
+2023-11-18 22:59:51,311 Function <random_barrel> returned 9.
+2023-11-18 22:59:51,646 Function <random_barrel> returned 7.
+2023-11-18 22:59:51,937 Function <random_barrel> returned 5.
+2023-11-18 22:59:52,504 Function <random_barrel> returned 13.
+2023-11-18 22:59:52,902 Function <random_barrel> returned 22.
+2023-11-18 22:59:53,205 Function <random_barrel> returned 18.
+2023-11-18 22:59:53,528 Function <random_barrel> returned 4.
+2023-11-18 22:59:53,820 Function <random_barrel> returned 6.
+2023-11-18 22:59:54,149 Function <random_barrel> returned 21.
+2023-11-18 22:59:54,447 Function <random_barrel> returned 14.
+2023-11-18 22:59:54,741 Function <random_barrel> returned 12.
+2023-11-18 22:59:54,742 Cycle ends successfully.
